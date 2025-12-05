@@ -77,8 +77,9 @@
 
 ### 🐍 Contribution Snake Animation
 <p align="center">
-<img src="https://raw.githubusercontent.com/swayamwarghane/swayamwarghane/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/swayamwarghane/swayamwarghane/output/snake.svg" alt="Snake animation"/>
 </p>
+
 
 ---
 
