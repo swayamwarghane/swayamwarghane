@@ -1,142 +1,124 @@
-# Hi, I'm Swayam 👋
+<div align="center">
+
+Hi there, I'm Swayam Warghane! 👋
+
+💻 Web Developer | UI/UX Enthusiast | Vibe Coder
+
+<p align="center">
+<img src="[PLACEHOLDER - Link to a waving hand GIF or a custom developer avatar image]" width="150" alt="Waving Hand Animated GIF">
+</p>
+
+<!-- Social Links Section: Use Shields.io for clean, modern buttons -->
+
+<p align="center">
+<a href="[PLACEHOLDER - Your GitHub Profile URL]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge" />
+</a>
+<a href="[PLACEHOLDER - Your LinkedIn Profile URL]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:swayamwarghane7218@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge" />
+</a>
+<!-- Placeholder for a Portfolio/Website Link -->
+<!-- <a href="[PLACEHOLDER - Your Portfolio Link]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Portfolio-FF7700%3Fstyle%3Dfor-the-badge%26logo%3Dappveyor%26logoColor%3Dwhite" alt="Portfolio Badge" />
+</a> -->
+</p>
 
 <div align="center">
 
-![header](https://raw.githubusercontent.com/DenverCoder1/readme-gen-assets/main/hero-swayam.gif)
+✨ The Vibe Coder Philosophy
 
 </div>
 
----
+I'm passionate about "vibe coding"—blending creativity with intuitive development to rapidly prototype and build modern, visually stunning web experiences. I specialize in building fully responsive, mobile-first interfaces with a strong focus on clean UI/UX.
 
-## 🔭 What I build
+My expertise spans traditional front-end technologies and modern frameworks, often leveraging AI-powered no-code/low-code tools to achieve maximum velocity and creative output.
 
-I'm a Computer Science undergrad who loves building **vibe-first**, AI-powered web experiences — clean UI/UX, responsive layouts, and fast prototypes. I mix classic frontend craft (HTML/CSS/JS) with modern React + TypeScript and AI/no-code tools to ship polished projects quickly.
+Education: B.Tech in Computer Science & Engineering (2023-2027) 🎓
 
-**Featured projects (repo links below):**
+<div align="center">
 
-* **CAPSCO** — AI-driven e‑commerce for caps (React, TypeScript, Vite, Tailwind, Supabase)
-* **Instant BG Reveal** — AI background-removal web app (React, JS)
-* **Netflix / Zomato / Dribbble clones** — pixel-faithful responsive UI builds (HTML, CSS, Bootstrap)
-* **Cafe** — stylish responsive site built with React + TS
+🛠️ My Developer Toolkit
 
----
+<!-- Frontend & Full Stack Badges (Fixed Links) -->
 
-## ✨ Realtime data & animated stats
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" alt="Vite" />
 
-> This README includes a realtime/animated data stack so your profile *lives* and shows your pulse.
+<!-- Core Languages & Other Tools (Fixed Links) -->
 
-### Live widgets included
+<div align="center">
 
-* **GitHub contribution heatmap** (auto-updates via GitHub Images)
-* **Language & repo stats** from `github-readme-stats` (dynamic SVGs)
-* **Wakatime / coding time** snapshot (optional — add your API key)
-* **Visitor counter & sparkline** for quick pulse of visits
-* **Animated highlights carousel** (GIF + shields + tiny JS-powered animation for local preview)
+🌟 Featured AI & Vibe-Driven Projects
 
-> The animated/stat widgets are served as SVGs and GIFs so they animate on GitHub and look slick.
+Project Name
 
----
+Description
 
-## 🚀 Quick setup (copy-paste)
+Key Technologies
 
-### 1) Basic README (already here)
+[CAPSCO]([PLACEHOLDER - CAPSCO Repo Link]) 🧢
 
-Just drop this file as `README.md` in your GitHub profile repository named exactly your GitHub username (e.g. `swayamwarghane/swayamwarghane`).
+Modern e-commerce web app for selling caps, built with AI tools for extreme velocity and a clean aesthetic.
 
-### 2) Add live GitHub stats cards
+React, TypeScript, Tailwind CSS, Supabase
 
-Place these markdown cards where you want the big stats to appear:
+[Instant BG Reveal]([PLACEHOLDER - BG Reveal Repo Link]) ✨
 
-```md
-<!-- GitHub Readme Stats -->
-![Swayam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swayamwarghane&show_icons=true&theme=dracula&count_private=true)
+A sleek, AI-powered web app for seamless, high-performance background removal.
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamwarghane&layout=compact&theme=dracula)
-```
+React, JavaScript, CSS
 
-### 3) Realtime WakaTime snapshot (optional)
+[Cafe Website]([PLACEHOLDER - Cafe Website Repo Link]) ☕
 
-Add your waka key to GitHub Actions secrets as `WAKATIME_KEY` and then include an action to generate a small SVG each day. Example workflow included in the **.github/workflows** section of this README.
+An AI-Generated, fully responsive modern website, focusing on a premium visual experience and usability.
 
-### 4) Visitor counter & sparkline
+React, TypeScript, Vite
 
-Use this lightweight badge to show visits:
+[Dribbble Clone]([PLACEHOLDER - Dribbble Clone Repo Link]) 🎨
 
-```md
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=swayamwarghane.swayamwarghane)
-```
+Demonstrates mastery of responsive layout using native CSS Grid and Flexbox (mobile-first design).
 
----
+CSS Grid, Flexbox, CSS
 
-## 📈 Auto-generated charts (GitHub Action example)
+📈 My GitHub Activity
 
-Create `.github/workflows/generate-stats.yml` with the following (this fetches WakaTime and saves an SVG to the repo):
+<!-- GitHub Stats Cards (Fixed Links) -->
 
-```yaml
-name: Generate profile charts
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch: {}
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dswayamwarghane%26show_icons%3Dtrue%26theme%3Dvue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="Swayam's GitHub Stats" style="margin: 10px;" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dswayamwarghane%26layout%3Dcompact%26theme%3Dvue%26hide_border%3Dtrue" alt="Swayam's Top Languages" style="margin: 10px;" />
+</div>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate WakaTime SVG
-        env:
-          WAKATIME_KEY: ${{ secrets.WAKATIME_KEY }}
-        run: |
-          pip install wakatime --no-cache-dir
-          python .github/scripts/generate_wakatime_svg.py
-      - name: Commit SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "chore: update stats svg" || echo "no changes"
-          git push
-```
+<!-- GitHub Trophies (Uncommented and fixed link prefix) -->
 
-> I included a sample `generate_wakatime_svg.py` script in the repo snippets section (see `scripts/` in this README).
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dswayamwarghane%26theme%3Dflat%26no-frame%3Dtrue%26row%3D1" alt="Swayam's GitHub Trophies" style="margin: 10px;" />
 
----
+<!-- Add an animated snake to separate the bottom section -->
 
-## 🧰 Tech & Tools
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%">
+</p>
 
-* **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript
-* **Frameworks & Layout:** React, Tailwind CSS, Bootstrap, Flexbox, CSS Grid
-* **Databases / Backend:** Supabase
-* **Others:** WakaTime, GitHub Actions, Vite
+🌱 I'm Currently Exploring...
 
----
+Next.js: Server-side Rendering and full-stack React development.
 
-## 📁 Projects & live links
+Advanced State Management: Deep diving into Zustand/Redux for complex applications.
 
-* [Dribbble clone — responsive layout (Grid + Flexbox)](https://github.com/swayamwarghane/Dribbble)
-* [Netflix clone — responsive with Bootstrap](https://github.com/swayamwarghane/Netflix)
-* [Zomato clone — UI replication](https://github.com/swayamwarghane/zomato)
-* [CAPSCO — AI e-commerce (React + TS + Supabase)](https://github.com/swayamwarghane/capsco2)
-* [Cafe — React + TS site](https://github.com/swayamwarghane/cafe)
-* [Instant BG Reveal — AI background remover](https://github.com/swayamwarghane/instant-bg-reveal)
+Serverless Functions: Scaling applications with cloud functions.
 
----
+📫 Connect with Me
 
-## 📫 Connect with me
+Feel free to connect with me via [LinkedIn]([PLACEHOLDER - Your LinkedIn Profile URL]) or shoot me an Email! Let's build something awesome.
 
-* Email: [swayamwarghane7218@gmail.com](mailto:swayamwarghane7218@gmail.com)
-* LinkedIn: [https://linkedin.com/in/swayam-warghane-8149b0290](https://linkedin.com/in/swayam-warghane-8149b0290)
-* GitHub: [https://github.com/swayamwarghane](https://github.com/swayamwarghane)
-
----
-
-## ✨ Notes & personalization
-
-* Want the WakaTime or timeline cards added? Add your `WAKATIME_KEY` to GitHub secrets and enable the workflow above.
-* Want a custom animated SVG (e.g., project carousel or live visitor sparkline)? I can add the generator script to `/scripts` — tell me what to visualize.
-
----
-
-*Profile content generated using details from the user's resume.*
+</div>
